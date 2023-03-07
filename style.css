@@ -616,3 +616,7 @@ h5 {
 .a_img:last-child{
     margin-right: 0;
 }
+
+@media all and (max-width: 1080px) {
+
+}
